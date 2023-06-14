@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container .m-swiper {
+  height: 160px;
+}
+.container .m-swiper .m-img {
+  height: 160px;
+  width: 750rpx;
+}
+.container .cate-box {
+  display: flex;
+  justify-content: space-around;
+  padding: 12px 0;
+  background-color: white;
+}
+.container .cate-box .cate-item .cate-img {
+  width: 66px;
+  height: 66px;
+}
+.container .floor-title {
+  height: 26px;
+}
+.floor-desc {
+  display: flex;
+}
+.floor-desc-left-img {
+  width: 240rpx;
+  height: 455rpx;
+}
+.floor-desc-left {
+  display: flex;
+  flex-wrap: wrap;
+}
+.floor-desc-right-img {
+  width: 240rpx;
+  height: 220rpx;
+  padding-left: 10rpx;
+}
+

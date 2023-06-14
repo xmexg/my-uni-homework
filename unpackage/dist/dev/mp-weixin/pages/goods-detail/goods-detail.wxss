@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.swiper-box.data-v-23714906 {
+  height: 320px;
+}
+.swiper-img.data-v-23714906 {
+  height: 100%;
+  width: 750rpx;
+}
+.desc.data-v-23714906 {
+  padding: 16px 12px;
+  background-color: white;
+}
+.price.data-v-23714906 {
+  font-size: 26px;
+  color: #B02E19;
+}
+.name.data-v-23714906 {
+  font-size: 14px;
+}
+.kd.data-v-23714906 {
+  font-size: 12px;
+  color: #666;
+  margin-top: 12px;
+}
+.goods-carts.data-v-23714906 {
+  position: fixed;
+  bottom: 0px;
+  width: 750rpx;
+}
+

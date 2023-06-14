@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  height: 36px;
+  background-color: #ff0000;
+  padding: 6px 12px;
+}
+.box {
+  background-color: white;
+  height: 100%;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-size: 15px;
+  margin-left: 6px;
+}
+

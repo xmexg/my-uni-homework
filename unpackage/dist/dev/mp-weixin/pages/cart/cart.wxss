@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.cate-item.data-v-0f00adf4 {
+  display: flex;
+  padding: 8px 10px;
+  align-items: center;
+  background-color: white;
+  border-bottom: 1px #ccc solid;
+}
+.item-img.data-v-0f00adf4 {
+  width: 250rpx;
+  height: 250rpx;
+}
+.item-desc.data-v-0f00adf4 {
+  width: 450rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 250rpx;
+}
+.item-name.data-v-0f00adf4 {
+  font-size: 12px;
+}
+.item-info.data-v-0f00adf4 {
+  display: flex;
+  justify-content: space-between;
+}
+.item-price.data-v-0f00adf4 {
+  color: #B12E1B;
+  font-size: 16px;
+}
+.total-box.data-v-0f00adf4 {
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  height: 56px;
+  width: 750rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 9;
+}
+.total.data-v-0f00adf4 {
+  font-size: 16px;
+  margin-left: 12px;
+}
+.total-price.data-v-0f00adf4 {
+  color: #B12E1B;
+}
+.commit.data-v-0f00adf4 {
+  width: 200rpx;
+  background-color: #B12E1B;
+  height: 100%;
+  text-align: center;
+  line-height: 56px;
+  color: white;
+}
+
