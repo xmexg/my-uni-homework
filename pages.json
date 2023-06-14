@@ -9,14 +9,14 @@
 	{
 		"path": "pages/cart/cart",
 		"style": {
-			"navigationBarTitleText": "分类",
+			"navigationBarTitleText": "购物车",
 			"enablePullDownRefresh": false
 		}
 	},
 	{
 		"path": "pages/cate/cate",
 		"style": {
-			"navigationBarTitleText": "购物车",
+			"navigationBarTitleText": "分类",
 			"enablePullDownRefresh": false
 		}
 	},
