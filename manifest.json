@@ -1,6 +1,6 @@
 {
-    "name" : "shop2",
-    "appid" : "",
+    "name" : "uni-shop",
+    "appid" : "__UNI__B2F96AA",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -56,5 +56,14 @@
         },
         "usingComponents" : true
     },
-    "vueVersion" : "2"
+    "vueVersion" : "2",
+    "h5" : {
+        "title" : "uni-shop",
+        "router" : {
+            "mode" : "hash",
+            "base" : "./"
+        }
+    },
+    "fallbackLocale" : "zh-Hans",
+    "locale" : "zh-Hans"
 }
